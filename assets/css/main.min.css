@@ -594,7 +594,7 @@
 .solution__midia--content embed {
     display: block;
     height: 130%;
-    width: 100%
+    width: 130%
 }
 
 .solution__midia--content .--img {
@@ -1253,3 +1253,15 @@
         margin-left: 5.2vw
     }
 }
+
+
+
+@media screen and (max-width: 600px) {
+    .custom-margin-top {
+        margin-top: 46px !important;
+    }
+    .custom-margin-bottom {
+        margin-bottom: 87px !important;
+    }
+    
+  }
