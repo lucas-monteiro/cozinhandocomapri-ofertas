@@ -600,7 +600,8 @@
 .solution__midia--content .--img {
     display: block;
     max-height: 130%;
-    max-width: 100%
+    max-width: 100%;
+    margin-bottom: 20px;
 }
 
 .solution__button {
